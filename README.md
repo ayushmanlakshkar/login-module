@@ -1,4 +1,4 @@
-# login-module
+# Login-Module
 # STEP-1
 Download all the dependencies for the given project
 
