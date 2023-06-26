@@ -1,0 +1,43 @@
+.box{
+    border: 2px solid grey;
+    width:50%;
+    margin: 40px auto;
+    padding: 10px;
+    border-radius: 30px;
+}
+.container-singup{
+    margin: 40px auto;
+    text-align: center;
+    font-weight: bolder;
+    font-size:7vh ;
+}
+
+.container{
+text-align: center;
+margin: 20px auto;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+}
+
+.input{
+    width: 40vw;
+    border: 2px black solid;
+    border-radius: 10px;
+    margin: 10px auto;
+    padding: 10px;
+    text-align: center;
+    font-weight: bolder;
+}
+
+.submit{
+    margin: 10px auto;
+    width: 13vw;
+    border: 2px solid grey;
+    background-color: green;
+    color: white;
+    border-radius: 20px;
+    padding: 10px;
+
+}
